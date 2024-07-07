@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(50, 50, 50);
+}
+
+canvas {
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
